@@ -58,9 +58,9 @@ Chart.js: Data visualization for charts
 
   In Expenses and Savings:
 
-    Use the search bar to find specific entries.
+  Use the search bar to find specific entries.
 
-    Use filter and sort options to organize entries.
+  Use filter and sort options to organize entries.
 
   Click edit (pencil) or delete (trash) icons to modify or remove entries.
 
@@ -68,18 +68,18 @@ Chart.js: Data visualization for charts
 
   In Expenses and Savings Charts tab:
 
-    View pie charts for category distribution.
+  View pie charts for category distribution.
 
-    View line charts for monthly trends.
+  View line charts for monthly trends.
 
   In Dashboard:
 
-    See an overview of total expenses, total savings, and net balance.
+  See an overview of total expenses, total savings, and net balance.
 
-    View comparison charts of expenses vs. savings.
+  View comparison charts of expenses vs. savings.
 
 5. Chatbot
 
-Click the chatbot icon (bottom right) to open the panel.
+    Click the chatbot icon (bottom right) to open the panel.
 
-Ask questions about app usage, financial tips, budgeting advice, or savings strategies.
+    Ask questions about app usage, financial tips, budgeting advice, or savings strategies.
